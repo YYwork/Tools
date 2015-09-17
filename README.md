@@ -6,6 +6,7 @@
 ## 阅读工具
 
 * kindle
+
 * [readfar](http://www.readfar.com/)
 
 ## 收藏工具
@@ -15,18 +16,18 @@
 
 ## 同步和存储工具
 
-### 文件等
+#### 文件等
 
 * [百度云](http://yun.baidu.com/)
 * [CloudDrive](https://www.amazon.cn/clouddrive/)
 
-### 文章同步
+#### 文章同步
 
 * [readability](http://www.readability.com/)
 
-### 万能同步
+#### 万能同步
 
-[ifttt](https://ifttt.com/)
+* [ifttt](https://ifttt.com/)
 
 ## 墙外
 
