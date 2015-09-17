@@ -3,6 +3,9 @@
 ## 代码和工具仓库
 
 * [npmjs](https://www.npmjs.com/)
+
+  - [fugardenia](https://www.npmjs.com/~fugardenia)
+
 * [GitHub](https://github.com/)
 
   - [FuGardenia](https://github.com/FuGardenia)
@@ -12,8 +15,8 @@
 ## 自动化
 
 * [grunt](http://www.gruntjs.net/)
-* [gulp]()
-* [webpack]()
+* [gulp](http://gulpjs.com/)
+* [webpack](http://webpack.github.io/)
 
 ## 编辑器
 
