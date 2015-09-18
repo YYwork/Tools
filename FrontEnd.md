@@ -1,5 +1,17 @@
 # 前端工具
 
+## HTML
+
+* [html2jade](http://www.html2jade.org/)
+
+## JavaScript
+
+* [js2coffee](http://js2.coffee/)
+
+## json
+
+* [json](http://json.cn/)
+
 ## 代码和工具仓库
 
 * [npmjs](https://www.npmjs.com/)
@@ -34,7 +46,9 @@
 
 ## 域名
 
-* [美橙互联](http://www.cndns.com/) itags.wang
+* [美橙互联](http://www.cndns.com/) itag.wang
+* [新网](http://www.xinnet.com/) chibashop.cn
+* [](http://www.cndns.com/) hegen.com.cn
 
 ## 服务器
 
