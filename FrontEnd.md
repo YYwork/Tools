@@ -11,6 +11,34 @@
 ## json
 
 * [json](http://json.cn/)
+* [json-server](https://github.com/typicode/json-server)
+
+## 调试工具
+
+* [browsersync](http://www.browsersync.io/)
+* [微信调试工具](http://blog.qqbrowser.cc/)
+
+## 测试
+
+* [modern.ie](https://dev.modern.ie/tools/vms/)
+
+## 在线测试
+
+* [responsive 不同屏幕大小](http://mattkersley.com/responsive/)
+* [juicer iOS 不同设备不同方向](http://juicecreative.co.uk/juicer/)
+* [responsivepx 自调宽度](http://responsivepx.com/)
+* [代码检测](https://validator.w3.org/mobile-alpha/)
+
+## CDN
+
+* [baidu](http://cdn.code.baidu.com/)
+* [bootcdn](http://www.bootcdn.cn/)
+
+## icon
+
+* [Font-Awesome](http://fortawesome.github.io/Font-Awesome/)
+* [icon List](http://weloveiconfonts.com/)
+* [SVG glyphter](https://glyphter.com/)
 
 ## 代码和工具仓库
 
@@ -23,6 +51,10 @@
   - [FuGardenia](https://github.com/FuGardenia)
   - [YYwork](https://github.com/YYwork)
   - [hcss](https://github.com/hcss)
+
+## 淘宝 NPM 镜像
+
+* [淘宝 NPM 镜像](http://npm.taobao.org/)
 
 ## 自动化
 
@@ -44,6 +76,12 @@
 
 * [Adobe Photoshop cc 2015]() 百度云work
 
+* [优设](http://hao.uisdc.com/)
+
+## 标记工具
+
+* [markman](http://getmarkman.com/#/download-modal)
+
 ## 域名
 
 * [美橙互联](http://www.cndns.com/) itag.wang
@@ -54,3 +92,7 @@
 
 * [nginx](http://nginx.org/)
 * [node.js](https://nodejs.org/)
+
+## 其它
+
+* [醉牛前端](http://f2er.club/)
