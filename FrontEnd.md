@@ -20,7 +20,8 @@
 
 ## 测试
 
-* [modern.ie](https://dev.modern.ie/tools/vms/)
+* [自动化测试 phantomjs](http://phantomjs.org/)
+* [人工测试环境 modern.ie](https://dev.modern.ie/tools/vms/)
 
 ## 在线测试
 
