@@ -1,9 +1,15 @@
 
-## 服务器
+## 服务器操作系统
 
 - Debian
 - Ubuntu
 - Centos 
+
+## 服务器
+
+- [nodejs](http://nodejs.org/)
+- [Apache](http://httpd.apache.org/)
+- [Nginx](http://nginx.org/)
 
 ## 数据库
 
